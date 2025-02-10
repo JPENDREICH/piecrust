@@ -1,0 +1,3 @@
+shopping_list = ["apples", "bananas", "oranges", "milk", "bananas", "bread", "apples"]
+listtogo = (shopping_list).sort
+print (listtogo)
